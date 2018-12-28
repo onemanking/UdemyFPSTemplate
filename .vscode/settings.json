@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"H:/Unreal Projects/UdemyFPSTemplate/.git": true,
+		"H:/Unreal Projects/UdemyFPSTemplate/.vs": true,
+		"H:/Unreal Projects/UdemyFPSTemplate/.vscode": true,
+		"H:/Unreal Projects/UdemyFPSTemplate/Content": true,
+		"H:/Unreal Projects/UdemyFPSTemplate/Intermediate": true,
+		"H:/Unreal Projects/UdemyFPSTemplate/Saved": true
+	}
+}
